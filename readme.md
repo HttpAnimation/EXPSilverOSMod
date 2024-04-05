@@ -15,7 +15,7 @@ cd EXPSilverOSMod
 ```
 
 ```bash
-rm compile.bash
+rm compile.sh
 ```
 
 Move the new folder to your SilverOS folder then compile your mods with **./modLoader**.
