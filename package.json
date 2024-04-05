@@ -1,6 +1,6 @@
 {
     "Name": "ModEXP",
-    "Photo": "ModEXP/photos/MOD.png",
+    "Photo": "ModEXP/icon.png",
     "MainEXE": "ModEXP/index.html",
     "Width": "800px",
     "Height": "480px"
