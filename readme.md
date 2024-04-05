@@ -3,7 +3,7 @@
 ## Installing
 
 ```bash
-git clone -b https://github.com/HttpAnimation/EXPSilverOSMod.git
+git clone https://github.com/HttpAnimation/EXPSilverOSMod.git
 ```
 
 ```bash
